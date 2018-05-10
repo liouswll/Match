@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>西安恩泽科技环保责任有限公司</title>
+    <link href="bootstrap.css" rel="stylesheet">
+    <script src="bootstrap.js"></script>
+    <script src="jquery-3.3.1.min.js"></script>
+    <style>
+        /*重置样式*/
+        *{margin: 0;padding: 0; list-style: none;}
+        body{
+            background-color:;
+        }
+        /*wrap的轮播图和切换按钮样式*/
+        .wrap{height: 410px;width: 1140px;margin: 50px auto; overflow: hidden;position: relative;}
+        .wrap ul{position: absolute;}
+        .wrap ul li{height: 410px;}
+        .wrap ol{position: absolute;right: 10px;bottom: 10px;}
+        .wrap ol li{height: 25px;width: 25px;  background-color:#fff;border: 1px solid #eee; margin-left: 10px;float:left; line-height: 20px; text-align: center;}
+        .wrap ol li.active{background-color: #330099; color: #fff; border: 2px solid green;}
+    </style>
+</head>
+<body>
+<div class="container">
+    <img src="picture/logoo.png">
+    <div>
+        <div>
+            <ul class="nav nav-pills navbar-left">
+                <li><a href="#"><h4>公司简介</h4></a></li>
+                <li><a href="#"><h4>产品介绍</h4></a></li>
+                <li><a href="#"><h4>技术支持</h4></a></li>
+                <li><a href="#"><h4>合作伙伴</h4></a></li>
+                <li><a href="#"><h4>联系我们</h4></a></li>
+                <li><a href="#"><h4>管理员入口</h4></a></li>
+            </ul>
+        </div>
+        <div >
+            <ul class=" nav nav-pills navbar-right">
+                <li><a class="btn btn-default" href="最终登录密码6.html" role="button">登录</a></li>
+                <li> <a class="btn btn-default" href="注册.html" role="button">注册</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="wrap" id="wrap" >
+        <ul id="pic">
+            <li><img src="picture/focus_11.png" alt=""></li>
+            <li><img src="picture/focus_12.png" alt=""></li>
+            <li><img src="picture/focus_13.png" alt=""></li>
+            <li><img src="picture/focus_14.png" alt=""></li>
+
+        </ul>
+        <ol id="list">
+            <li class="active">1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+        </ol>
+    </div>
+    <script type="text/javascript">
+        window.onload=function(){
+            var wrap=document.getElementById('wrap'),
+                pic=document.getElementById('pic'),
+                list=document.getElementById('list').getElementsByTagName('li'),
+                index=0,
+                timer=null;
+
+            // 定义并调用自动播放函数
+            if(timer){
+
+                clearInterval(timer);
+                timer=null;
+            }
+            timer=setInterval(autoplay,2000);
+            // 定义图片切换函数
+            function autoplay(){
+                index++;
+                if(index>=list.length){
+                    index=0;
+                }
+                changeoptions(index);
+
+
+            }
+
+            // 鼠标划过整个容器时停止自动播放
+            wrap.onmouseover=function(){
+
+                clearInterval(timer);
+
+            }
+            // 鼠标离开整个容器时继续播放至下一张
+            wrap.onmouseout=function(){
+
+                timer=setInterval(autoplay,2000);
+            }
+            // 遍历所有数字导航实现划过切换至对应的图片
+            for(var i=0;i<list.length;i++){
+                list[i].id=i;
+                list[i].onmouseover=function(){
+                    clearInterval(timer);
+                    changeoptions(this.id);
+
+                }
+            }
+            function changeoptions(curindex){
+                for(var j=0;j<list.length;j++){
+                    list[j].className='';
+                    pic.style.top=0;
+
+                }
+                list[curindex].className='active';
+                pic.style.top=-curindex*410+'px';
+                index=curindex;
+            }
+
+        }
+
+    </script>
+    <h3 class="page-header">简介</h3>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="picture/pp_img.png">
+                <div class="caption">
+                    <h4>公司介绍</h4>
+                    <p>西安恩泽科技环保有限责任公司是一家专注于中小型水域垃圾清理设备设计的技术公司。公司秉着“科技为先，创新为本；环保为主，品质为求”的宗旨，努力成为水面垃圾清理设备的创新者与领跑者。</p>
+                    <ul>
+                        <li><a href="#">公司概况</a></li>
+                        <li><a href="#">部门职能</a></li>
+                        <li><a href="#">联系我们</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="picture/kj_img.png">
+                <div class="caption">
+                    <h4>售前服务</h4>
+                    <p>智能水上垃圾收集装置是一种中小型水域水面垃圾的收集装置，能实现水上垃圾装载、水上自主移动、智能语音提示、测距避障、导航定位、无线通信等功能。</p>
+                    <ul>
+                        <li><a href="#">公司产品</a></li>
+                        <li><a href="#">售前服务</a></li>
+                        <li><a href="#">联系我们</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="picture/bz_img.png">
+                <div class="caption">
+                    <h4>产品开发</h4>
+                    <p>智能水上垃圾收集装置，该产品由远程监测单元和船体主控单元组成。远程监测单元，该设备理念先进、节能环保、智能安全、从源头上治理水污染问题。解决水域垃圾日益增多、打捞困难等问题。</p>
+                    <ul>
+                        <li><a href="#">公司开发</a></li>
+                        <li><a href="#">技术支持</a></li>
+                        <li><a href="#">联系我们</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="picture/wm_img.png">
+                <div class="caption">
+                    <h4>售后服务</h4>
+                    <p>用户即上帝，对客户而言，本公司的产品及服务为客户解决了水域垃圾日益增多、人力打捞困难及成本大的问题。并且为客户进行专业服务，提供专业的环境治理队伍以及设备，解除客户的一切后顾之忧。</p>
+                    <ul>
+                        <li><a href="#">公司概况</a></li>
+                        <li><a href="#">部门职能</a></li>
+                        <li><a href="#">联系我们</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="picture/mj_img.png">
+                <div class="caption">
+                    <h4>前景展望</h4>
+                    <p>我们会定期更新换代我们的“智能水上垃圾收集装置”这一产品，这是适应人们生活水平提高，工业发展趋势等前提而相应提出的。此外，我们计划推出相应的辅助产品以满足换季、天气条件、顾客需求等需要。</p>
+                    <ul>
+                        <li><a href="#">公司概况</a></li>
+                        <li><a href="#">部门职能</a></li>
+                        <li><a href="#">联系我们</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="picture/pp_img.png">
+                <div class="caption">
+                    <h4>公司介绍</h4>
+                    <p>西安恩泽科技环保有限责任公司是一家专注于中小型水域垃圾清理设备设计的技术公司。公司秉着“科技为先，创新为本；环保为主，品质为求”的宗旨，努力成为水面垃圾清理设备的创新者与领跑者</p>
+                    <ul>
+                        <li><a href="#">公司概况</a></li>
+                        <li><a href="#">部门职能</a></li>
+                        <li><a href="#">联系我们</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div style="float: left"><img src="picture/logo2.jpg" style="padding-left: 15px"></div>
+
+        <div style="float: left">
+            <dl style="padding-left: 50px">
+                <strong>西安镜水科技环保有限责任公司</strong>
+                <dt><img src="picture/tel_icon.png">Tel : 029-88888888</dt>
+                <dd></dd>
+
+                <dt><img src="picture/fax_icon.png">Fax : 029-80888888</dt>
+                <dd></dd>
+
+                <dt><img src="picture/add_icon.png">Add : 西安市长安区西安邮电大学</dt>
+                <dd></dd>
+
+                <dt><img src="picture/email_icon.png"> Email : 18789453153@163.com</dt>
+                <dd></dd>
+            </dl>
+            <div style="padding-left: 275px">
+                <h4 class="center-block">版权所有权（C）西安镜水科技有限责任公司</h4>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

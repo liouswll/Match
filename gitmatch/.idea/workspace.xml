@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e3a6959-f66a-4455-814b-1eb54689120e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="blank.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spadmin/blank.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="210" column="54" lean-forward="false" selection-start-line="210" selection-start-column="54" selection-end-line="210" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="最终登录密码6.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/最终登录密码6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chart</find>
+      <find>地图</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index1.html" />
+        <option value="$PROJECT_DIR$/yy.html" />
+        <option value="$PROJECT_DIR$/picture/bs2.html" />
+        <option value="$PROJECT_DIR$/index3.html" />
+        <option value="$PROJECT_DIR$/bs2.html" />
+        <option value="$PROJECT_DIR$/测试2.html" />
+        <option value="$PROJECT_DIR$/a.html" />
+        <option value="$PROJECT_DIR$/zz.html" />
+        <option value="$PROJECT_DIR$/ad.html" />
+        <option value="$PROJECT_DIR$/aa.js" />
+        <option value="$PROJECT_DIR$/登录.html" />
+        <option value="$PROJECT_DIR$/登录2.html" />
+        <option value="$PROJECT_DIR$/登录4.html" />
+        <option value="$PROJECT_DIR$/登录3.html" />
+        <option value="$PROJECT_DIR$/登录5.html" />
+        <option value="$PROJECT_DIR$/最终登录5.html" />
+        <option value="$PROJECT_DIR$/最终登录6.html" />
+        <option value="$PROJECT_DIR$/主页测试.html" />
+        <option value="$PROJECT_DIR$/最终登录短信5.html" />
+        <option value="$PROJECT_DIR$/主页测试测试.css" />
+        <option value="$PROJECT_DIR$/主页测试测试.html" />
+        <option value="$PROJECT_DIR$/aa.html" />
+        <option value="$PROJECT_DIR$/ss1.html" />
+        <option value="$PROJECT_DIR$/ss.html" />
+        <option value="$PROJECT_DIR$/水质监测.html" />
+        <option value="$PROJECT_DIR$/注册.html" />
+        <option value="$PROJECT_DIR$/cz主页.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/nn.html" />
+        <option value="$PROJECT_DIR$/vv.html" />
+        <option value="$PROJECT_DIR$/测试.html" />
+        <option value="$PROJECT_DIR$/ajax.js" />
+        <option value="$PROJECT_DIR$/最终登录密码6 - 副本.html" />
+        <option value="$PROJECT_DIR$/副本 - 副本.html" />
+        <option value="$PROJECT_DIR$/主页.html" />
+        <option value="$PROJECT_DIR$/cz密码.html" />
+        <option value="$PROJECT_DIR$/cz注册.html" />
+        <option value="$PROJECT_DIR$/实验.html" />
+        <option value="$PROJECT_DIR$/spadmin/实验.html" />
+        <option value="$PROJECT_DIR$/spadmin/实验2.html" />
+        <option value="$PROJECT_DIR$/后台数据.html" />
+        <option value="$PROJECT_DIR$/spadmin/地图.html" />
+        <option value="$PROJECT_DIR$/spadmin/index.html" />
+        <option value="$PROJECT_DIR$/spadmin/charts.html" />
+        <option value="$PROJECT_DIR$/spadmin/gps.html" />
+        <option value="$PROJECT_DIR$/spadmin/blank.html" />
+        <option value="$PROJECT_DIR$/cz短信.html" />
+        <option value="$PROJECT_DIR$/最终登录密码6.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2131" />
+    <option name="y" value="114" />
+    <option name="width" value="1014" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="《二》" type="b2602c69:ProjectViewProjectNode" />
+              <item name="《二》" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="《二》" type="b2602c69:ProjectViewProjectNode" />
+              <item name="《二》" type="462c0819:PsiDirectoryNode" />
+              <item name="spadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/garbage/zz.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\garbage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="aa.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="aa.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.aa.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e3a6959-f66a-4455-814b-1eb54689120e" name="Default" comment="" />
+      <created>1521358600445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521358600445</updated>
+      <workItem from="1521358604198" duration="20634000" />
+      <workItem from="1521440182487" duration="327000" />
+      <workItem from="1521440521521" duration="1517000" />
+      <workItem from="1521442058109" duration="26274000" />
+      <workItem from="1521470829970" duration="187000" />
+      <workItem from="1521528086104" duration="3744000" />
+      <workItem from="1521533012233" duration="15159000" />
+      <workItem from="1521550778835" duration="3320000" />
+      <workItem from="1521554113436" duration="1113000" />
+      <workItem from="1521615209026" duration="6742000" />
+      <workItem from="1521622288854" duration="3722000" />
+      <workItem from="1521626236445" duration="1326000" />
+      <workItem from="1521635350952" duration="1968000" />
+      <workItem from="1521642911064" duration="235000" />
+      <workItem from="1521680009240" duration="571000" />
+      <workItem from="1521688078768" duration="383000" />
+      <workItem from="1522141774497" duration="20000" />
+      <workItem from="1522561890905" duration="2358000" />
+      <workItem from="1522565807430" duration="252000" />
+      <workItem from="1522585204663" duration="1243000" />
+      <workItem from="1522660884447" duration="17259000" />
+      <workItem from="1522738540210" duration="943000" />
+      <workItem from="1523250980234" duration="87000" />
+      <workItem from="1523272405169" duration="765000" />
+      <workItem from="1523280253012" duration="753000" />
+      <workItem from="1523450522719" duration="235000" />
+      <workItem from="1523453816262" duration="1835000" />
+      <workItem from="1523455672447" duration="1794000" />
+      <workItem from="1523457504927" duration="616000" />
+      <workItem from="1523511911996" duration="63000" />
+      <workItem from="1523776071077" duration="1890000" />
+      <workItem from="1523780123279" duration="8000" />
+      <workItem from="1523887298035" duration="941000" />
+      <workItem from="1523888312905" duration="7000" />
+      <workItem from="1523890218907" duration="15000" />
+      <workItem from="1523954227524" duration="4536000" />
+      <workItem from="1523959549580" duration="240000" />
+      <workItem from="1523959806417" duration="3995000" />
+      <workItem from="1523966164900" duration="989000" />
+      <workItem from="1523974775181" duration="13000" />
+      <workItem from="1524398591181" duration="634000" />
+      <workItem from="1524460775336" duration="239000" />
+      <workItem from="1524462588842" duration="817000" />
+      <workItem from="1524472765499" duration="4990000" />
+      <workItem from="1524480351567" duration="6085000" />
+      <workItem from="1524488024848" duration="1330000" />
+      <workItem from="1524646457323" duration="4136000" />
+      <workItem from="1524664293802" duration="3060000" />
+      <workItem from="1524735147821" duration="729000" />
+      <workItem from="1524742688109" duration="6486000" />
+      <workItem from="1524749485669" duration="4000" />
+      <workItem from="1524752361250" duration="3000" />
+      <workItem from="1525952834466" duration="1348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157940000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aa.html" />
+    <entry file="file://$PROJECT_DIR$/bs2.html" />
+    <entry file="file://$PROJECT_DIR$/aa.html" />
+    <entry file="file://$PROJECT_DIR$/bs2.html" />
+    <entry file="file://$PROJECT_DIR$/主页测试测试.css" />
+    <entry file="file://$PROJECT_DIR$/aa.html" />
+    <entry file="file://$PROJECT_DIR$/主页测试测试.html" />
+    <entry file="file://$PROJECT_DIR$/ss.html" />
+    <entry file="file://$PROJECT_DIR$/水质监测.html" />
+    <entry file="file://$PROJECT_DIR$/cz主页.html" />
+    <entry file="file://$PROJECT_DIR$/nn.html" />
+    <entry file="file://$PROJECT_DIR$/spadmin - 副本/index.html" />
+    <entry file="file://$PROJECT_DIR$/注册.html" />
+    <entry file="file://$PROJECT_DIR$/测试.html" />
+    <entry file="file://$PROJECT_DIR$/登录.html" />
+    <entry file="file://$PROJECT_DIR$/主页测试版.html" />
+    <entry file="file://$PROJECT_DIR$/ss1.html" />
+    <entry file="file://$PROJECT_DIR$/bs2.html" />
+    <entry file="file://$PROJECT_DIR$/index1.html" />
+    <entry file="file://$PROJECT_DIR$/index3.html" />
+    <entry file="file://$PROJECT_DIR$/登录2.html" />
+    <entry file="file://$PROJECT_DIR$/登录3.html" />
+    <entry file="file://$PROJECT_DIR$/登录4.html" />
+    <entry file="file://$PROJECT_DIR$/轮播图.html" />
+    <entry file="file://$PROJECT_DIR$/vv.html" />
+    <entry file="file://$PROJECT_DIR$/ajax.js" />
+    <entry file="file://$PROJECT_DIR$/副本 - 副本.html" />
+    <entry file="file://$PROJECT_DIR$/最终登录密码6 - 副本.html" />
+    <entry file="file://$PROJECT_DIR$/地图 (2).html" />
+    <entry file="file://$PROJECT_DIR$/spadmin/icons.html" />
+    <entry file="file://$PROJECT_DIR$/cz密码.html" />
+    <entry file="file://$PROJECT_DIR$/cz注册.html" />
+    <entry file="file://$PROJECT_DIR$/spadmin/assets/img/flat_icons/charts.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/实验.html" />
+    <entry file="file://$PROJECT_DIR$/spadmin/实验2.html" />
+    <entry file="file://$PROJECT_DIR$/spadmin/实验.html" />
+    <entry file="file://$PROJECT_DIR$/最终登录短信5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/后台数据.html" />
+    <entry file="file://$PROJECT_DIR$/主页.html" />
+    <entry file="file://$PROJECT_DIR$/spadmin/地图.html" />
+    <entry file="file://$PROJECT_DIR$/spadmin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="94" column="91" lean-forward="false" selection-start-line="94" selection-start-column="89" selection-end-line="94" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spadmin/charts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/地图.html" />
+    <entry file="file://$PROJECT_DIR$/spadmin/gps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3624">
+          <caret line="151" column="114" lean-forward="false" selection-start-line="151" selection-start-column="114" selection-end-line="151" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz短信.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spadmin/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="210" column="54" lean-forward="false" selection-start-line="210" selection-start-column="54" selection-end-line="210" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/最终登录密码6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
